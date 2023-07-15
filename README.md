@@ -5,11 +5,11 @@ A simple way to parse your ABIs in Python.
 ### Installation
 
 ```bash
-pip install abi_parser
+pip install abiparser
 ```
 
 ```python
-from abi_parser import ContractABI
+from abiparser import ContractABI
 abi = ContractABI('<PATH TO ABI JSON'>)
 
 # name

@@ -1,4 +1,4 @@
-from abi_parser import ContractABI
+from abiparser import ContractABI
 
 abi = ContractABI('tests/uniswap.sol/IUniswapV2Router.json')
 
