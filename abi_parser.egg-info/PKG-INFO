@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: abi-parser
+Version: 1.0.0
+Summary: A Python package to parse Ethereum contract ABI files
+Author: August Radjoe
+Author-email: atg271@gmail.com
