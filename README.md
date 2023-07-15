@@ -7,7 +7,6 @@ A simple way to parse your ABIs in Python.
 ```bash
 pip install abi_parser
 ```
-```
 
 ```python
 from abi_parser import ContractABI
